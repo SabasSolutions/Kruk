@@ -38,6 +38,9 @@ The computer was developed to replace the standard BMW E36 analog clock. It show
 By default, the code contains a joke page for Belarusian users. The version for Russian users is in the **ru** folder.\
 Flash via Arduino IDE.
 
+> [!IMPORTANT]
+> AsyncTCP and ESPAsyncWebServer libraries must be installed from the ESP32Async author in Arduino IDE. Also, don't forget to install all the other libraries. It is also necessary to install the ESP32 package from Espressif Systems in the Arduino board manager.
+
 
 
 
