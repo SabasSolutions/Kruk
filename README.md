@@ -24,7 +24,8 @@ GND -> G
 **DS18B20**\
 RED -> 3V3\
 BLACK -> G\
-YELLOW -> 10
+YELLOW -> 10\
+Solder the resistor between the ends of the red and yellow wires. The yellow wire (DATA) can be a different color.
 
 **Power Supply**\
 We connect power from the car via the WeActStudio DC/DC DCM1 5V module.\
