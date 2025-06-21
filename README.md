@@ -41,6 +41,8 @@ Flash via Arduino IDE.
 > [!IMPORTANT]
 > AsyncTCP and ESPAsyncWebServer libraries must be installed from the ESP32Async author in Arduino IDE. Also, don't forget to install all the other libraries. It is also necessary to install the ESP32 package from Espressif Systems in the Arduino board manager.
 
+![Kruk](/images/kruk.png)
+
 
 
 
