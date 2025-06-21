@@ -15,10 +15,10 @@ A small car computer with a temperature sensor, stopwatch and free Wi-Fi for all
 6. Wires 30AWG
 
 ### Connecting the wires to board:
-**SSD 1306**
-SDA -> 8
-SCL -> 9
-VCC -> 3V3
+**SSD 1306**\
+SDA -> 8\
+SCL -> 9\
+VCC -> 3V3\
 GND -> G
 
 **DS18B20**
