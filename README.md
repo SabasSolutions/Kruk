@@ -32,6 +32,11 @@ Then\
 Positive power supply wire -> 5V\
 negative power supply wire -> G
 
+### Connecting the wires to board\
+Kruk (Крук) means hook in Belarusian.\
+The computer was developed to replace the standard BMW E36 analog clock. It shows the temperature of the cabin or any other place where you attach the temperature sensor, and also shows the time since switching on. An additional interesting function is the distribution of "Free Wi-Fi", when the user connects, it automatically transfers to the Captive Portal, which can draw any web page that can be changed in **line 20** of the code. After connecting the first user, additional information about the number of users connected to Wi-Fi and the number of users who remain connected and have not yet disconnected from it will be displayed on the display.\
+By default, the code contains a joke page for Belarusian users. The version for Russian users is in the **ru** folder.
+
 
 
 
