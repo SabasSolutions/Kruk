@@ -21,16 +21,16 @@ SCL -> 9\
 VCC -> 3V3\
 GND -> G
 
-**DS18B20**
-RED -> 3V3
-BLACK -> G
+**DS18B20**\
+RED -> 3V3\
+BLACK -> G\
 YELLOW -> 10
 
-**Power Supply**
-We connect power from the car via the WeActStudio DC/DC DCM1 5V module.
-Then
-+ -> 5V
-- -> G
+**Power Supply**\
+We connect power from the car via the WeActStudio DC/DC DCM1 5V module.\
+Then\
+Positive power supply wire -> 5V\
+negative power supply wire -> G
 
 
 
